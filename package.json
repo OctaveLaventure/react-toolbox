@@ -30,7 +30,7 @@
     "classnames": "^2.2.5",
     "core-js": "^2.4.0",
     "ramda": "^0.23.0",
-    "react-css-themr": "^2.1.2",
+    "react-css-themr": "OctaveLaventure/react-css-themr",
     "react-style-proptype": "^3.0.0",
     "react-transition-group": "^2.2.1"
   },
